@@ -1,5 +1,7 @@
 # Adaptation of GBVS to Hype (V1)
 
+![](https://i.imgur.com/UgQxQUN.png)
+
 This code is an adaptation of the GBVS original matlab [code](http://www.vision.caltech.edu/~harel/share/gbvs.php), proposed in:
 
 > J. Harel, C. Koch, and P. Perona, "Graph-Based Visual Saliency", Proceedings of Neural Information Processing Systems (NIPS), 2006.
